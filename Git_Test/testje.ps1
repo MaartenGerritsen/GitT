@@ -1,1 +1,2 @@
-get-service -Name '*NAV*'
+get-service -Name '*NAV*' 
+# adfadsf
